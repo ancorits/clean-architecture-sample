@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ht+Y0DuN2t33eB49S3rERY7/15sWqEsIsaQ0Wb2pR1lgmJC1CwiDgekFxvF8lSljcGOj9F38TvSRROa2WVqncQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\CleanArchitectureSample\\BusinessRules\\BusinessRules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

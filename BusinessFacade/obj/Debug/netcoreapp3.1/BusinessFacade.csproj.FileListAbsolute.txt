@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\obj\Debug\netcoreapp3.1\BusinessFacade.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\obj\Debug\netcoreapp3.1\BusinessFacade.AssemblyInfo.cs
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\obj\Debug\netcoreapp3.1\BusinessFacade.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\bin\Debug\netcoreapp3.1\BusinessFacade.exe
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\bin\Debug\netcoreapp3.1\BusinessFacade.deps.json
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\bin\Debug\netcoreapp3.1\BusinessFacade.runtimeconfig.json
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\bin\Debug\netcoreapp3.1\BusinessFacade.runtimeconfig.dev.json
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\bin\Debug\netcoreapp3.1\BusinessFacade.dll
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\bin\Debug\netcoreapp3.1\BusinessFacade.pdb
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\obj\Debug\netcoreapp3.1\BusinessFacade.dll
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\obj\Debug\netcoreapp3.1\BusinessFacade.pdb
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessFacade\obj\Debug\netcoreapp3.1\BusinessFacade.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\obj\Debug\netcoreapp3.1\AlternativeBusinessService.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\obj\Debug\netcoreapp3.1\AlternativeBusinessService.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\obj\Debug\netcoreapp3.1\AlternativeBusinessService.AssemblyInfo.cs
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\obj\Debug\netcoreapp3.1\AlternativeBusinessService.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\BusinessFacade.exe
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\AlternativeBusinessService.exe
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\AlternativeBusinessService.deps.json
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\AlternativeBusinessService.runtimeconfig.json
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\AlternativeBusinessService.runtimeconfig.dev.json
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\AlternativeBusinessService.dll
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\AlternativeBusinessService.pdb
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\BusinessFacade.dll
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\bin\Debug\netcoreapp3.1\BusinessFacade.pdb
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\obj\Debug\netcoreapp3.1\AlternativeBusinessService.csproj.CopyComplete
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\obj\Debug\netcoreapp3.1\AlternativeBusinessService.dll
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\obj\Debug\netcoreapp3.1\AlternativeBusinessService.pdb
+C:\Users\pc\source\repos\CleanArchitectureSample\AlternativeBusinessService\obj\Debug\netcoreapp3.1\AlternativeBusinessService.genruntimeconfig.cache

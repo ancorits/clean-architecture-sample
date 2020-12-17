@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.AssemblyInfo.cs
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.exe
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.deps.json
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.runtimeconfig.json
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.runtimeconfig.dev.json
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.dll
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessService.pdb
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.dll
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.pdb
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.genruntimeconfig.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessFacade.exe
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessFacade.dll
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\bin\Debug\netcoreapp3.1\BusinessFacade.pdb
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\CleanArchitectureSample\BusinessService\obj\Debug\netcoreapp3.1\BusinessService.csproj.CopyComplete
